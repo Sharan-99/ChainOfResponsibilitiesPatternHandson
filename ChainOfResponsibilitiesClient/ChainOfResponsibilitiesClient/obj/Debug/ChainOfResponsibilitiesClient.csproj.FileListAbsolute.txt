@@ -1,0 +1,10 @@
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesClient\ChainOfResponsibilitiesClient\bin\Debug\ChainOfResponsibilitiesClient.exe.config
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesClient\ChainOfResponsibilitiesClient\bin\Debug\ChainOfResponsibilitiesClient.exe
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesClient\ChainOfResponsibilitiesClient\bin\Debug\ChainOfResponsibilitiesClient.pdb
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesClient\ChainOfResponsibilitiesClient\bin\Debug\ChainOfResponsibilitiesLibrary.dll
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesClient\ChainOfResponsibilitiesClient\bin\Debug\ChainOfResponsibilitiesLibrary.pdb
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesClient\ChainOfResponsibilitiesClient\obj\Debug\ChainOfResponsibilitiesClient.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesClient\ChainOfResponsibilitiesClient\obj\Debug\ChainOfResponsibilitiesClient.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesClient\ChainOfResponsibilitiesClient\obj\Debug\ChainOfResponsibilitiesClient.csproj.CopyComplete
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesClient\ChainOfResponsibilitiesClient\obj\Debug\ChainOfResponsibilitiesClient.exe
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesClient\ChainOfResponsibilitiesClient\obj\Debug\ChainOfResponsibilitiesClient.pdb

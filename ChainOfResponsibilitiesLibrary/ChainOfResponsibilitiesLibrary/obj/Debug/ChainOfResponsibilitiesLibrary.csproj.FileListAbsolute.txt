@@ -1,0 +1,6 @@
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesLibrary\ChainOfResponsibilitiesLibrary\bin\Debug\ChainOfResponsibilitiesLibrary.dll
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesLibrary\ChainOfResponsibilitiesLibrary\bin\Debug\ChainOfResponsibilitiesLibrary.pdb
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesLibrary\ChainOfResponsibilitiesLibrary\obj\Debug\ChainOfResponsibilitiesLibrary.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesLibrary\ChainOfResponsibilitiesLibrary\obj\Debug\ChainOfResponsibilitiesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesLibrary\ChainOfResponsibilitiesLibrary\obj\Debug\ChainOfResponsibilitiesLibrary.dll
+C:\Users\2091199\source\repos\ChainOfResponsibilitiesLibrary\ChainOfResponsibilitiesLibrary\obj\Debug\ChainOfResponsibilitiesLibrary.pdb
